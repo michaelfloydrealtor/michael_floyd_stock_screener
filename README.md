@@ -54,5 +54,5 @@ Smooths price data to identify long-term trends.
 RSI (14)
 
 Measures price momentum and signals overbought/oversold levels.
-LinkedIn: your profile link
-Portfoli
+
+LinkedIn: www.linkedin.com/in/michael-floyd-960683353
