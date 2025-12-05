@@ -40,13 +40,13 @@ Matplotlib
 
 yFinance
 
-📦 Installation (Local)
+ Installation (Local)
 git clone https://github.com/YOUR_USERNAME/michael_floyd_stock_screener
 cd michael_floyd_stock_screener
 pip install -r requirements.txt
 streamlit run app.py
 
-🧮 Indicators
+ Indicators
 SMA 50
 
 Smooths price data to identify long-term trends.
