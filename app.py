@@ -4,8 +4,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from indicators import sma, rsi
 
-# Personalized title for your résumé/portfolio
-st.title("📈 Michael Floyd Stock Screener")
+st.set_page_config(
+    page_title="Michael Floyd's Stock Screener",
+    page_icon="📈",           # optional, but looks great
+    layout="wide"
+)
+
+# Personalized title
+st.title("📈 Michael Floyd's Stock Screener")
 st.write("A clean, professional stock analysis tool built by Michael Floyd.")
 
 # User input for ticker selection
