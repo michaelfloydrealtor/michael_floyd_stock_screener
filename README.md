@@ -2,7 +2,7 @@
 
 Interactive stock analysis web application built with Python and Streamlit.
 
-🔗 Live App:
+Live App:
 
 https://michaelfloyd-stock-screener.streamlit.app
 
