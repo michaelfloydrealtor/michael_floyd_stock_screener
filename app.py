@@ -3,6 +3,12 @@ import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
 from indicators import sma, rsi
+from PIL import Image
+
+logo = Image.open("logo.png")
+st.sidebar.image(logo, use_column_width=True)
+st.sidebar.markdown("### Michael Floyd")
+st.sidebar.markdown("Finance • Data • Analytics")
 
 st.set_page_config(
     page_title="Michael Floyd's Stock Screener",
