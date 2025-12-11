@@ -1,4 +1,4 @@
-📈 Michael Floyd Stock Screener
+Michael Floyd's Stock Screener
 
 Interactive stock analysis web application built with Python and Streamlit.
 
@@ -40,7 +40,7 @@ Matplotlib
 
 yFinance
 
- Installation (Local)
+Installation (Local)
 git clone https://github.com/YOUR_USERNAME/michael_floyd_stock_screener
 cd michael_floyd_stock_screener
 pip install -r requirements.txt
